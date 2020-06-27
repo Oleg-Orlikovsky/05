@@ -1,3 +1,4 @@
+
 my_f = open('testfile.txt', 'w')
 line = input('Введите текст \n')
 while line:
